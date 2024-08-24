@@ -582,3 +582,20 @@ footer .cols .news-col form button i{
 
 }
 
+.res-btn{
+    background-color: #ffb742;
+    padding: 6px 30px;
+    display: flex;
+    border: none;
+    position: relative;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition:background-color 0.3s ease;
+}
+
+.res-btn:hover{
+    background-color: red;;
+}
+
+
